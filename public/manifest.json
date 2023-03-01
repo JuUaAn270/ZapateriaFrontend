@@ -1,0 +1,10 @@
+{
+  "name": "Zapatería PWA",
+  "short_name": "ZapateriaPWA",
+  "theme_color": "#fdebc9",
+  "background_color": "#fdebc9",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
+  "splash_pages": null
+}
